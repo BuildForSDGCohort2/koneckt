@@ -69,9 +69,8 @@ This project is developed under Fuse Org. For the versions available, see the re
 Authors
 Lead Developers
 
-    @morisha
-
-@kallyas
+- [morisha](https://github.com/morisha/)
+- [kallyas](https://github.com/kallyas/)
 
 ### LICENSE
 
